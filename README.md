@@ -56,13 +56,15 @@ To run this project locally, follow these steps:
 4. Compile Sass:
 
    ```bash
-   npm run sass
+   npm run compile:sass
    ```
 
 5. Start the development server:
    ```bash
    npm start
    ```
+   or
+   Run Live Server
 
 ## Usage
 
